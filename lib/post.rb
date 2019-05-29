@@ -1,4 +1,4 @@
 class Post
-  def initialize
+  def initialize()
   end
 end 
